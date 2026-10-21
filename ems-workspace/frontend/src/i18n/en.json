@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "Entrepreneur Matching System",
+    "subtitle": "AI-Powered Founder & Investor Connections",
+    "theme": {
+      "light": "Light Mode",
+      "dark": "Dark Mode",
+      "toggle": "Toggle Theme"
+    },
+    "language": {
+      "select": "Select Language",
+      "en": "English",
+      "hi": "Hindi (हिंदी)",
+      "gu": "Gujarati (ગુજરાતી)"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "matches": "Matches",
+    "startups": "Startups",
+    "messages": "Messages",
+    "profile": "Profile"
+  },
+  "auth": {
+    "welcome": "Welcome back",
+    "guest": "Guest Founder",
+    "login": "Sign In",
+    "signup": "Create Account",
+    "logout": "Sign Out",
+    "sessionActive": "Session Active",
+    "googleAuth": "Continue with Google",
+    "orEmail": "Or continue with email",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "founder@startup.io",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "••••••••",
+    "fullNameLabel": "Full Name",
+    "fullNamePlaceholder": "Alex Morgan",
+    "selectRole": "Select Your Role",
+    "noAccount": "Don't have an account?",
+    "alreadyAccount": "Already have an account?",
+    "signInTab": "Sign In",
+    "signUpTab": "Sign Up",
+    "subheadingLogin": "Sign in to access AI-matched founders & investors",
+    "subheadingSignup": "Join the premier ecosystem for founders & investors"
+  },
+  "matching": {
+    "title": "Recommended Matches",
+    "score": "Match Compatibility",
+    "matchPercent": "{{score}}% Match",
+    "connect": "Connect Now",
+    "connecting": "Connecting...",
+    "connected": "Connected",
+    "calculate": "Recalculate AI Matches",
+    "loading": "Finding best co-founder matches...",
+    "error": "Failed to load matches."
+  },
+  "profile": {
+    "title": "Founder Profile",
+    "role": "Role / Specialization",
+    "bio": "Biography",
+    "skills": "Skills & Expertise",
+    "portfolio": "Portfolio Links",
+    "update": "Update Profile",
+    "updating": "Updating...",
+    "updatedSuccess": "Profile updated successfully!"
+  },
+  "startups": {
+    "title": "Startup Listings",
+    "category": "Industry Category",
+    "status": "Current Status",
+    "addListing": "Add Startup Listing",
+    "loading": "Loading startup directory..."
+  },
+  "messaging": {
+    "title": "In-Platform Chat",
+    "placeholder": "Type your message to founder...",
+    "send": "Send Message",
+    "online": "Online"
+  }
+}
